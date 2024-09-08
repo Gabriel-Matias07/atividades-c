@@ -9,3 +9,6 @@ int main(){
     printf("VALOR A PAGAR: R$ %.2lf\n", valorTotal);
     return 0;
 }
+
+/* Não esqueça de remover os comentários de código antes de enviar
+By https://github.com/Gabriel-Matias07 */

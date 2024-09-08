@@ -9,3 +9,6 @@ int main(){
     printf("MEDIA = %.1lf\n", MEDIA);
     return 0;
 }
+
+/* Não esqueça de remover os comentários de código antes de enviar
+By https://github.com/Gabriel-Matias07 */

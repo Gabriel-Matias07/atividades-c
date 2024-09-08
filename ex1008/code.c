@@ -11,3 +11,6 @@ int main(){
     printf("SALARY = U$ %.2f\n", SALARY);
     return 0;
 }
+
+/* Não esqueça de remover os comentários de código antes de enviar
+By https://github.com/Gabriel-Matias07 */

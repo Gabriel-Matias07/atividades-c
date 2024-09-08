@@ -12,3 +12,6 @@ int main() {
     printf("TOTAL = R$ %.2lf\n", total);
     return 0;
 }
+
+/* Não esqueça de remover os comentários de código antes de enviar
+By https://github.com/Gabriel-Matias07 */
