@@ -1,7 +1,10 @@
 #include <stdio.h>
 int main()
 {
-    int N, R, V;
+    /*N Número de voluntários que mergulhou
+    R Número de voluntários que retornou do mergulho
+    V Variavel que recebe os números de identificação*/
+    int N, R, V; 
     while (scanf("%d %d", &N, &R) != EOF)
     {
         int vetor[N + 1];
@@ -32,3 +35,6 @@ int main()
     }
     return 0;
 }
+
+/* Não esqueça de remover os comentários de código antes de enviar
+By https://github.com/Gabriel-Matias07 */
